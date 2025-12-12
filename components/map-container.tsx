@@ -12,7 +12,7 @@ const locations = [
     name: "Copenhagen, Denmark",
     lat: 55.6761,
     lng: 12.5683,
-    photo: "/copenhagen.JPG",
+    photo: "/copenhagen.jpg",
     color: "bg-blue-500",
     moment:
       "Walking along the harbor during my first week, I remember feeling how calm and considered everything seemed. New buildings sit right beside old streets without competing for attention, and the whole place feels edited in a good way.",
@@ -27,7 +27,7 @@ const locations = [
     name: "Malmö, Sweden",
     lat: 55.605,
     lng: 13.0038,
-    photo: "/malmo.JPG",
+    photo: "/malmo.jpg",
     color: "bg-emerald-500",
     moment:
       "Seeing the Turning Torso next to the quiet canals made me notice how Malmö mixes the futuristic with the familiar. The city feels calm, almost self-assured in its own rhythm.",
@@ -42,7 +42,7 @@ const locations = [
     name: "Aalborg, Denmark",
     lat: 57.0488,
     lng: 9.9217,
-    photo: "/aalborg.JPG",
+    photo: "/aalborg.jpg",
     color: "bg-purple-500",
     moment:
       "Standing near Musikkens Hus, I noticed how the city feels both industrial and cultural at the same time. It’s small, but the ambitions feel bigger.",
@@ -57,7 +57,7 @@ const locations = [
     name: "Cologne, Germany",
     lat: 50.9375,
     lng: 6.9603,
-    photo: "/koln.JPG",
+    photo: "/koln.jpg",
     color: "bg-teal-500",
     moment:
       "Stepping out of the train station and immediately facing the cathedral was overwhelming in the best way. Everything around it feels practical, but the cathedral sets the emotional tone for the whole city.",
@@ -72,7 +72,7 @@ const locations = [
     name: "Amsterdam, Netherlands",
     lat: 52.3676,
     lng: 4.9041,
-    photo: "/amsterdam.JPG",
+    photo: "/amsterdam.jpg",
     color: "bg-orange-500",
     moment:
       "Amsterdam's houses clearly show traces of how life might have been in the past—narrow fronts, hoisting hooks, and compact layouts that reflect practical needs shaped by trade and limited space. The canal network itself feels like an organizing spine for the city, guiding movement and framing everyday life.",
@@ -87,7 +87,7 @@ const locations = [
     name: "Tromsø, Norway",
     lat: 69.6496,
     lng: 18.956,
-    photo: "/tromso.JPG",
+    photo: "/tromso.jpg",
     color: "bg-indigo-500",
     moment:
       "Tromsø’s city center is quiet but distinctly defined, especially when compared to the more residential Tromsdalen across the water. The surrounding mountains and sea make the city feel tightly framed by nature, almost as if the environment sets the boundaries for how the urban areas grow.",
@@ -102,7 +102,7 @@ const locations = [
     name: "Vatican City",
     lat: 41.9029,
     lng: 12.4534,
-    photo: "/vatican.JPG",
+    photo: "/vatican.jpg",
     color: "bg-amber-500",
     moment:
       "Walking through the Vatican felt surreal. The crowds, the scale, and the golden light made the whole place feel intentional and almost unreal.",
@@ -117,7 +117,7 @@ const locations = [
     name: "Amalfi, Italy",
     lat: 40.634,
     lng: 14.602,
-    photo: "/amalfi.JPG",
+    photo: "/amalfi.jpg",
     color: "bg-pink-500",
     moment:
       "Walking up the hills felt like stepping into a vertical neighborhood. Everything is close, steep, and somehow cozy.",
